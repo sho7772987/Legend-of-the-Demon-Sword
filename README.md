@@ -22,6 +22,6 @@ void print(const char * std){
 int e_HP = 1000;
 int m_HP = 200;
 ```
-e_HP = enemy_HP
-m_HP = my_HP
+e_HP = enemy_HP  
+m_HP = my_HP  
 自分と敵のHPの初期値を1000と200にしています
