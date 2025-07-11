@@ -16,3 +16,12 @@ void print(const char * std){
     }
 }
 ```
+RPGゲームのように文字の出力速度を変化させています
+---
+```
+int e_HP = 1000;
+int m_HP = 200;
+```
+e_HP = enemy_HP
+m_HP = my_HP
+自分と敵のHPの初期値を1000と200にしています
