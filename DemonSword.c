@@ -205,9 +205,9 @@ int main(void){
         //勝敗
         print("\n=== 結果 ===\n");
         if(m_HP <= 0)
-            print("あなたは倒れてしまった… Game Over\n");
+            print("YOU LOSE\n");
         else
-            print("裏敵を倒した！ 勝利！！\n");
+            print("YOU WIN\n");
     }
     return 0;
 }
